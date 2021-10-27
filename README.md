@@ -7,8 +7,9 @@ OnBiz
 OnBiz는 On Business의 줄임말로, 각종 업무와 프로젝트를 총괄하는 PMS 시스템을 뜻함
 
 
-* PMS란?
- Project Management System으로, 프로젝트의 정량적인 성과 및 진행지표를 체계적으로 관리하기 위한 것
+PMS란?
+
+Project Management System으로, 프로젝트의 정량적인 성과 및 진행지표를 체계적으로 관리하기 위한 것
  
  
 PMS의 차별점
